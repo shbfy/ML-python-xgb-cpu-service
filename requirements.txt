@@ -2,7 +2,7 @@ falcon==1.4.1
 future==0.17.1
 gunicorn==19.9.0
 onnxruntime==1.1.0
-protobuf==3.7.1
+protobuf==3.15.0
 pytest==5.3.2
 sklearn==0.22.1
 xgboost==0.90
