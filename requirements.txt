@@ -1,5 +1,5 @@
 falcon==1.4.1
-future==0.17.1
+future==0.18.3
 gunicorn==19.9.0
 onnxruntime==1.1.0
 protobuf==3.7.1
